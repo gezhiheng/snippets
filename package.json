@@ -1,0 +1,13 @@
+{
+  "name": "snippets",
+  "version": "1.0.0",
+  "description": "开发过程中常用的代码片段和组件合集",
+  "keywords": [
+    "JavaScript",
+    "Vue",
+    "HTML",
+    "CSS"
+  ],
+  "author": "henry.ge",
+  "license": "MIT"
+}
